@@ -14,7 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://gitlang.mrmarble.dev/crakernano?format=svg">
+<!--<img src="https://gitlang.mrmarble.dev/crakernano?format=svg">-->
+  <p align = "left">
+    <img src="https://github-readme-stats.vercel.app/api?username=crakernano&show_icons=true&theme=highcontrast&line_height=27"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crakernano&hide=css,html&theme=highcontrast&line_height=27">
+  </p>
+
+<p align = "center">
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/php%20-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/-Javascript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=red"/>
+<img src="https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/jenkis%20-%2314354C.svg?&style=for-the-badge&logo=jenkins&logoColor=black"/>
+<img src="https://img.shields.io/badge/kubernetes%20-%2314354C.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
 ## 🔭 I’m currently working on
 
