@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/docker%20-%2314354C.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/jenkis%20-%2314354C.svg?&style=for-the-badge&logo=jenkins&logoColor=black"/>
 <img src="https://img.shields.io/badge/kubernetes%20-%2314354C.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/dart%20-%2314354C.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/flutter%20-%2314354C.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>  
 </p>
 
 ## 🔭 I’m currently working on
