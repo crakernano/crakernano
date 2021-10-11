@@ -31,20 +31,19 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/dart%20-%2314354C.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/flutter%20-%2314354C.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>  
 <img src="https://img.shields.io/badge/react%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/go%20-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 ## 🔭 I’m currently working on
 
-- Gluapp
-- SinceWhere
-- Jarwis
+| Gluapp | Since Where  | Jarwis  | Room2Learn  | 
+|------|---|---|---|
 
 
 ## 🌱 I’m currently learning 
 
-- IA & Maching Lerning
-- Bigdata
-- Machine vision
+- IA, Maching Lerning and Bigdata
+- Go (golang-go)
 
 ## 💬 Ask me about 
 
