@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 |  | Project | Progress |
 | -- | -- | -- |
-| 🤖 | [twitter_mood_analytic](https://github.com/crakernano/twitter_mood_analytic) |  	◼◼◼◼◼◼◼◼◼◼ 100%  |
+| 🤖 | [twitter_mood_analytic](https://github.com/crakernano/twitter_mood_analytic/tree/front#readme) |  	◼◼◼◼◼◼◼◼◼◼ 100%  |
 | 🤖 |[Precio Luz Bot](https://github.com/crakernano/precio-luz-bot)|  	◼◼◼◼◼◼◼◼◼◼ 100%  |
 | 🤖 |[notion-bot](https://github.com/crakernano/notion-bot) | ◼◼◼◼◼◼◼▭▭▭ 70% |
 | 🤖 |[keymera](https://github.com/crakernano/keymera)|◼◼◼◼◼▭▭▭▭▭▭ 45%|
