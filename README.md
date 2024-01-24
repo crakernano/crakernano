@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--<img src="https://gitlang.mrmarble.dev/crakernano?format=svg">-->
   <p align = "left">
     <img src="https://github-readme-stats.vercel.app/api?username=crakernano&show_icons=true&theme=highcontrast&line_height=27"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crakernano&hide=css,html&theme=highcontrast&line_height=27">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crakernano&layout=donut-vertical&hide=SCSS,css,HTML&size_weight=0.5&count_weight=0.5&langs_count=10&theme=highcontrast&line_height=27">
   </p>
 
 <p align = "center">
@@ -38,19 +38,23 @@ Here are some ideas to get you started:
 
 |  | Project | Progress |
 | -- | -- | -- |
+| 🤖 | [Room2Learn](https://nami-tech.es/?productos=room2learn-una-forma-diferente-de-aprender-y-divertirte) | 	◼◼◼◼◼◼◼◼◼▭ 90% |
+| 🤖 | [Dreambook]() | 	◼◼◼◼◼◼◼◼◼▭ 90% |
+| 🚧 | [SinceWhen](https://nami-tech.es/?productos=sincewhere-aplicaciones-alimentos-dinero) | ◼◼◼◼◼◼◼▭▭▭ 70% |
+| 🌱 | [Invernadero 2.0](https://trastejant.github.io/projects/invernadero_2_0/) | 	◼◼◼◼◼◼◼◼◼▭ 90% |
+| 🚧 | [Smart Pot]() |	◼◼◼▭▭▭▭▭▭▭ 30%|
+
+## 🔭 Other
+
+|  | Project | Progress |
+| -- | -- | -- |
 | 🤖 | [twitter_mood_analytic](https://github.com/crakernano/twitter_mood_analytic/tree/front#readme) |  	◼◼◼◼◼◼◼◼◼◼ 100%  |
 | 🤖 |[Precio Luz Bot](https://github.com/crakernano/precio-luz-bot)|  	◼◼◼◼◼◼◼◼◼◼ 100%  |
 | 🤖 |[notion-bot](https://github.com/crakernano/notion-bot) | ◼◼◼◼◼◼◼▭▭▭ 70% |
 | 🤖 |[keymera](https://github.com/crakernano/keymera)|◼◼◼◼◼▭▭▭▭▭▭ 45%|
 | 🤖 |[speed-recorder](https://github.com/crakernano/speed-recorder)|  	◼◼◼◼◼◼◼◼◼◼ 100%  |
-| 🤖 | [Room2Learn](https://nami-tech.es/?productos=room2learn-una-forma-diferente-de-aprender-y-divertirte) | 	◼◼◼◼◼◼◼◼◼▭ 90% |
-| 🤖 | [Dreambook]() | 	◼◼◼◼◼◼◼◼◼▭ 90% |
-| 🚧 | [SinceWhen](https://nami-tech.es/?productos=sincewhere-aplicaciones-alimentos-dinero) | ◼◼◼◼◼◼◼▭▭▭ 70% |
 | 🚧 | [Funny & Cheep]() | ◼◼◼◼◼◼▭▭▭▭▭ 55% |
 | 🚧 | [GluApp](https://nami-tech.es/?productos=gluapp) | ◼◼◼▭▭▭▭▭▭▭ 30% |
-| 🌱 | [Invernadero 2.0](https://trastejant.github.io/projects/invernadero_2_0/) | 	◼◼◼◼◼◼◼◼◼▭ 90% |
-| 🌱 | [Jardín vertical](https://trastejant.github.io/projects/invernadero_2_0/) | 	◼◼◼◼◼◼◼◼◼▭ 90% |
-| 🚧 | [Smart Pot]() |	◼◼◼▭▭▭▭▭▭▭ 30%|
 
 ## 👯 My Organizations
 
